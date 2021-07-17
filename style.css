@@ -1,0 +1,19 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    background-image: url("https://image.freepik.com/free-psd/birthday-balloons-with-white-gifts_23-2148412530.jpg");
+   
+}
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 100px;
+    background-color: darkorange;
+    color: snow;
+}
+
